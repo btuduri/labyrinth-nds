@@ -1,0 +1,11 @@
+#summary nds reflex game
+
+= Introduction =
+
+Labyrinth is a NDS reflex game.
+
+
+= Details =
+
+* coded in C
+* using [http://www.palib.info/ PALib library].
